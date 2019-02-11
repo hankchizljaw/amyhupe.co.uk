@@ -80,4 +80,4 @@ The value of service design can be tricky to quantify. It’s not one thing, but
 
 For me personally, it would be hard to overstate the value of our service designer’s input and support in the time we’ve worked together. As well as a valued colleague, she’s become my friend, and I’ll continue to watch and learn from her after she’s moved.
 
-So my one piece of advice to you is this: if you’re building a design system, be sure to include a service designer — you’re going to need one.
+So my one piece of advice to you is this: if you’re building a design system, be sure to include a service designer — you’re going to need one. 
